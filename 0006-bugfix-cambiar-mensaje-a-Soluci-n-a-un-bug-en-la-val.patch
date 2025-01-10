@@ -1,0 +1,25 @@
+From f4d1f8f444c3cd1bed79352374171bedac9a5633 Mon Sep 17 00:00:00 2001
+From: Belen Ramos <brgutierrez@us.es>
+Date: Wed, 8 Jan 2025 09:33:18 +0100
+Subject: [PATCH 6/9] =?UTF-8?q?bugfix=20(cambiar=20mensaje=20a:=20'Soluci?=
+ =?UTF-8?q?=C3=B3n=20a=20un=20bug=20en=20la=20validaci=C3=B3n=20de=20entra?=
+ =?UTF-8?q?das')?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ archivo4.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 archivo4.txt
+
+diff --git a/archivo4.txt b/archivo4.txt
+new file mode 100644
+index 0000000..3320c4a
+--- /dev/null
++++ b/archivo4.txt
+@@ -0,0 +1 @@
++cambio 4
+-- 
+2.47.1
+

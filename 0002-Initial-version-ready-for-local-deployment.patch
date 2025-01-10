@@ -1,0 +1,18 @@
+From d46ce493e6fc90ab9589cc51656101a5317ed946 Mon Sep 17 00:00:00 2001
+From: Belen Ramos <brgutierrez@us.es>
+Date: Wed, 8 Jan 2025 09:24:55 +0100
+Subject: [PATCH 2/9] Initial version ready for local deployment
+
+---
+ .moduleignore | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/.moduleignore b/.moduleignore
+index e69de29..57c2015 100644
+--- a/.moduleignore
++++ b/.moduleignore
+@@ -0,0 +1 @@
++webhook
+-- 
+2.47.1
+

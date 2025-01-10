@@ -1,0 +1,25 @@
+From 13cd556f274a81a5675b723a895e193d0c91ade3 Mon Sep 17 00:00:00 2001
+From: Belen Ramos <brgutierrez@us.es>
+Date: Wed, 8 Jan 2025 09:33:18 +0100
+Subject: [PATCH 4/9] =?UTF-8?q?2=C2=BA=20commit=20relacionado=20(se=20comb?=
+ =?UTF-8?q?inar=C3=A1=20(squash)=20con=20los=20commits=20anterior=20y=20si?=
+ =?UTF-8?q?guiente=20durante=20el=20rebase)?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ archivo2.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 archivo2.txt
+
+diff --git a/archivo2.txt b/archivo2.txt
+new file mode 100644
+index 0000000..5ae72fa
+--- /dev/null
++++ b/archivo2.txt
+@@ -0,0 +1 @@
++cambio 2
+-- 
+2.47.1
+

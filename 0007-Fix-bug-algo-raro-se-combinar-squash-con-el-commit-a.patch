@@ -1,0 +1,25 @@
+From 1d544e6adcc16f3c85df7458b152a29ebbcad5da Mon Sep 17 00:00:00 2001
+From: Belen Ramos <brgutierrez@us.es>
+Date: Wed, 8 Jan 2025 09:33:19 +0100
+Subject: [PATCH 7/9] =?UTF-8?q?Fix=20bug=20algo=20raro=20(se=20combinar?=
+ =?UTF-8?q?=C3=A1=20(squash)=20con=20el=20commit=20anterior=20durante=20el?=
+ =?UTF-8?q?=20rebase)?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ archivo5.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 archivo5.txt
+
+diff --git a/archivo5.txt b/archivo5.txt
+new file mode 100644
+index 0000000..d8eeddc
+--- /dev/null
++++ b/archivo5.txt
+@@ -0,0 +1 @@
++cambio 5
+-- 
+2.47.1
+

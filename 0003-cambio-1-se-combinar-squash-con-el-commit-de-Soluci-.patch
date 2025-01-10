@@ -1,0 +1,26 @@
+From c9ff30e1295b14153ceb7ea13d57217b2db2f2e8 Mon Sep 17 00:00:00 2001
+From: Belen Ramos <brgutierrez@us.es>
+Date: Wed, 8 Jan 2025 09:33:18 +0100
+Subject: [PATCH 3/9] =?UTF-8?q?cambio=201=20(se=20combinar=C3=A1=20(squash?=
+ =?UTF-8?q?)=20con=20el=20commit=20de=20'Soluci=C3=B3n=20a=20un=20bug=20en?=
+ =?UTF-8?q?=20la=20validaci=C3=B3n=20de=20entradas').=20Cambie=20el=20orde?=
+ =?UTF-8?q?n=20de=20los=20commits,=20si=20lo=20considera=20necesario?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ archivo1.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 archivo1.txt
+
+diff --git a/archivo1.txt b/archivo1.txt
+new file mode 100644
+index 0000000..be4b69c
+--- /dev/null
++++ b/archivo1.txt
+@@ -0,0 +1 @@
++cambio 1
+-- 
+2.47.1
+
